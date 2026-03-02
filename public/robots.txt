@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+
+# Sitemap location
+Sitemap: https://www.krinjurylawfirm.com/sitemap.xml
+
+# Crawl-delay for responsible crawling
+Crawl-delay: 1
+
+# Old domain redirect notice for search engines
+# This helps search engines understand the domain change
+Host: www.krinjurylawfirm.com
