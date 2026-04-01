@@ -43,5 +43,4 @@ The platform features an integrated contact system powered by **Nodemailer**. En
 *   `EMAIL_TO`
 
 ---
-**Maintained by:** Chandan-devs-tech  
-**Status:** Private Corporate Repository
+**Maintained by:** ChandanGuptaDevs
